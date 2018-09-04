@@ -268,3 +268,45 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/xyxyxyxy1234444/2018_inquiry.git
 git push -u origin master
+history
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/xyxyxyxy1234444/2018_inquiry.git
+git push -u origin master
+git remote add origin https://github.com/xy/2018_inquiry.git
+git push -u origin master
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/xyxyxyxy1234444/2018_inquity
+git push -u origin master
+ls
+git clone https://github.com/xyxyxyxy1234444/2018_inquiry.git
+git clone https://github.com/xyxyxyxy1234444/2018_inquity.git
+git add .
+git commit -m
+git push -u origin master
+git add .
+git commit -m
+ls
+cd 2018_inquity
+git add .
+git commit -m
+git push -u origin master
+git add.
+git commit -m
+git push -u origin master
+Branch master set up to track remote branch master from origin.
+history
+git add.
+git clone https://github.com/zhuhongri/2018_inquiry.git
+ls
+cd 2018_inquiry
+ls
+git add.
+git add .
+git commit -m "first commit"
+git push -u origin master
