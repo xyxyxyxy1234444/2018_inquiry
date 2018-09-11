@@ -310,3 +310,183 @@ git add.
 git add .
 git commit -m "first commit"
 git push -u origin master
+git clone https://github.com/xyxyxyxy1234444/aaa.git
+git add .
+cd aaa
+git add .
+git commit -m "first commit"
+git push -u origin master
+cd aaa
+git add .
+ls
+git add .
+git commit -m
+git commit -m "first commit"
+git push -u origin master
+git add .
+git commit -m "first commit"
+git push -u origin master
+git add .
+git commit -m "first commit"
+git push -u origin master
+git clone https://github.com/xyxyxyxy1234444/aaa.git
+cd aaa
+ls
+git add .
+git commit -m "first commit"
+git push -u origin master
+history
+git remote add origin https://github.com/xyxyxyxy1234444/2018_inquity 
+git remote add origin https://github.com/xyxyxyxy1234444/aaa 
+git remote add origin https://github.com/xyxyxyxy1234444/aaa
+git add .
+git commit -m "first commit"
+git push -u origin master
+ls
+cd 2018_inquity
+git add .
+git commit -m "first commit"
+git push -u origin master
+ls
+pwd
+cd 2018_inquiry
+ls
+git add .
+git commit -m first
+git push -u origin master
+ls
+pwd
+git add .
+git commit -m first
+git push -u origin master
+pwd
+git add .
+git commit -m first
+git push -u origin master
+cd ..
+pwd
+git clone https://github/xyxyxyxy1234444/2018_inquiry
+
+git clone https://github/xyxyxyxy1234444/2018_inquiry
+pwd
+cd 2018_inquiry
+ls
+git add .
+git commit -m first
+git push -u origin master
+cd 
+pwd
+cd 2018_inquiry
+git add .
+git commit -m first
+git push -u origin master
+git add .
+pwd
+cd ..
+cls
+clear
+ls
+pwd
+git clone https://github.com/xyxyxyxy1234444/inquiry.git
+pwd
+cd inquiry
+git add .
+git commit -m first
+git push -u origin master
+pwd
+git clone https://github.com/xyxyxyxy1234444/new.git
+pwd
+cd ..
+git clone https://github.com/xyxyxyxy1234444/new.git
+pwd
+cd new 
+git add .
+git commit -m first
+git push -u origin master
+history
+git push -u origin master
+pwd
+cd inquiry
+ls
+cd /inquiry
+cd ..
+ls
+cd inquiry
+git add .
+git commit -m first
+git push -u origin master
+git commit -m first
+git push -u origin master
+pwd
+cd inquiry/smarty/templates_c
+pwd
+ls -a 
+chmod 751 .gitignore
+ls -a 
+chmod 777 .gitignore
+pwd
+ls -a 
+cd /public
+cd ..
+ls
+ls -a 
+ls -a
+ls ls -l
+ls -l
+cd samrty
+cd ..
+pwd
+cd xiaoyao/inquiry/smarty/templates_c
+cd xiaoyao
+pwd
+cd inquiry/smarty/templates_c
+ls -l 
+ls -l
+ls -l -a 
+cd /vendor
+pwd
+ls
+cd smarty
+cd ..
+cd smaryt-3.1.30
+cd smarty-3.1.30
+ls
+cd libs
+cd sysplugins
+vi smarty_internal_runtime_writefile.php
+pwd
+cd /
+pwd
+ls
+cd /xiaoyao
+cd home
+ls
+cd /xiaoyao
+cd xiaoyao
+pwd
+cd smarty
+pwd
+cd inquiry
+cd smarty
+cd templates_c
+ls
+ls -a
+vi .gitignore
+cd .
+pw
+p@wd
+pwd
+ls
+cd inquiry
+git add .
+git commit -m
+git push -u origin master
+git add .
+git commit -m first
+git push -u origin master
+git clone https://github.com/xyxyxyxy1234444/inquiry.git
+git clone https://github.com/xyxyxyxy1234444/inquiry.git[]
+git clone https://github.com/xyxyxyxy1234444/inquiry.git
+git add .
+git commit -m first
+git push -u origin master

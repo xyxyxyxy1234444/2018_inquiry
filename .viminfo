@@ -12,6 +12,8 @@ $
 
 # Command Line History (newest to oldest):
 :wq
+:q!
+:set nu
 :q
 
 # Search String History (newest to oldest):
@@ -31,12 +33,59 @@ $
 		url = git@github.com:xyxyxyxy1234444/2018_inquity.git
 
 # File marks:
-'0  5  1  ~/inquiry/.git/config
-'1  6  1  ~/inquiry/.git/config
-'2  1  0  ~/inquiry/.git
-'3  1  0  ~/inquiry/.git/config
+'0  5  0  ~/inquiry/smarty/templates_c/.gitignore
+'1  49  59  /vendor/smarty-3.1.30/libs/sysplugins/smarty_internal_runtime_writefile.php
+'2  5  1  ~/inquiry/.git/config
+'3  6  1  ~/inquiry/.git/config
+'4  1  0  ~/inquiry/.git
+'5  1  0  ~/inquiry/.git/config
 
 # Jumplist (newest first):
+-'  5  0  ~/inquiry/smarty/templates_c/.gitignore
+-'  1  0  ~/inquiry/smarty/templates_c/.gitignore
+-'  49  59  /vendor/smarty-3.1.30/libs/sysplugins/smarty_internal_runtime_writefile.php
+-'  1  0  /vendor/smarty-3.1.30/libs/sysplugins/smarty_internal_runtime_writefile.php
+-'  5  1  ~/inquiry/.git/config
+-'  6  1  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  7  1  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  8  0  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  5  1  ~/inquiry/.git/config
+-'  6  1  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  7  1  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  8  0  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  49  59  /vendor/smarty-3.1.30/libs/sysplugins/smarty_internal_runtime_writefile.php
+-'  1  0  /vendor/smarty-3.1.30/libs/sysplugins/smarty_internal_runtime_writefile.php
+-'  5  1  ~/inquiry/.git/config
+-'  6  1  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  7  1  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
+-'  8  0  ~/inquiry/.git/config
+-'  1  0  ~/inquiry/.git
+-'  1  0  ~/inquiry/.git
 -'  5  1  ~/inquiry/.git/config
 -'  6  1  ~/inquiry/.git/config
 -'  1  0  ~/inquiry/.git/config
@@ -52,6 +101,13 @@ $
 -'  1  0  ~/inquiry/.git
 
 # History of marks within files (newest to oldest):
+
+> ~/inquiry/smarty/templates_c/.gitignore
+	"	5	0
+
+> /vendor/smarty-3.1.30/libs/sysplugins/smarty_internal_runtime_writefile.php
+	"	49	59
+	^	49	60
 
 > ~/inquiry/.git/config
 	"	5	1
